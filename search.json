@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About This Website\nThis website showcases my learning and projects in data analytics, Quarto, and business applications.\nIt highlights my ability to analyze data, create dashboards, and present insights effectively."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project demonstrates my ability to analyze data and create meaningful visualizations using R and Quarto.\nSkills: - Data cleaning - Data visualization - Analytical thinking\n\n\n\n\nThis project explores consumer attitudes using survey data. The analysis highlights how different factors influence participation.\nSkills: - Statistical analysis - Interpretation of results - Business insights\n\n\n\n\n\nAbility to turn data into insights\nStrong analytical thinking\nBusiness-focused decision making"
+  },
+  {
+    "objectID": "projects.html#project-1-data-analysis-dashboard",
+    "href": "projects.html#project-1-data-analysis-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "This project demonstrates my ability to analyze data and create meaningful visualizations using R and Quarto.\nSkills: - Data cleaning - Data visualization - Analytical thinking"
+  },
+  {
+    "objectID": "projects.html#project-2-consumer-behavior-analysis",
+    "href": "projects.html#project-2-consumer-behavior-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "This project explores consumer attitudes using survey data. The analysis highlights how different factors influence participation.\nSkills: - Statistical analysis - Interpretation of results - Business insights"
+  },
+  {
+    "objectID": "projects.html#key-strengths",
+    "href": "projects.html#key-strengths",
+    "title": "Projects",
+    "section": "",
+    "text": "Ability to turn data into insights\nStrong analytical thinking\nBusiness-focused decision making"
+  },
+  {
+    "objectID": "presentation.html#overview",
+    "href": "presentation.html#overview",
+    "title": "Presentation",
+    "section": "Overview",
+    "text": "Overview\nThis presentation demonstrates my ability to communicate insights effectively."
+  },
+  {
+    "objectID": "presentation.html#skills",
+    "href": "presentation.html#skills",
+    "title": "Presentation",
+    "section": "Skills",
+    "text": "Skills\n\nData storytelling\nVisualization\nBusiness insights"
+  },
+  {
+    "objectID": "presentation.html#example-insight",
+    "href": "presentation.html#example-insight",
+    "title": "Presentation",
+    "section": "Example Insight",
+    "text": "Example Insight\nData analysis helps identify patterns and improve decision-making."
+  },
+  {
+    "objectID": "presentation.html#conclusion",
+    "href": "presentation.html#conclusion",
+    "title": "Presentation",
+    "section": "Conclusion",
+    "text": "Conclusion\nEffective communication of data is essential in business analytics."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "My Photo\n\n\n\n\n\n\n\n\nI aspire to build a career in data analytics and business intelligence, where I can use data to support decision-making and improve business performance.\n\n\n\n\nData Analysis (R, Excel)\nData Visualization (Quarto, ggplot2)\nMarketing Analytics\nProblem Solving\n\n\n\n\n\nCal Poly Pomona\nMajor: Business Administration and Management"
+  },
+  {
+    "objectID": "index.html#calista-hanlin-gozali",
+    "href": "index.html#calista-hanlin-gozali",
+    "title": "Home",
+    "section": "",
+    "text": "My Photo"
+  },
+  {
+    "objectID": "index.html#career-aspiration",
+    "href": "index.html#career-aspiration",
+    "title": "Home",
+    "section": "",
+    "text": "I aspire to build a career in data analytics and business intelligence, where I can use data to support decision-making and improve business performance."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Home",
+    "section": "",
+    "text": "Data Analysis (R, Excel)\nData Visualization (Quarto, ggplot2)\nMarketing Analytics\nProblem Solving"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "",
+    "text": "Cal Poly Pomona\nMajor: Business Administration and Management"
+  }
+]
